@@ -1,0 +1,13 @@
+C:\Users\felic\source\repos\TH Winform W3\TH Winform W3\bin\Debug\TH Winform W3.exe.config
+C:\Users\felic\source\repos\TH Winform W3\TH Winform W3\bin\Debug\TH Winform W3.exe
+C:\Users\felic\source\repos\TH Winform W3\TH Winform W3\bin\Debug\TH Winform W3.pdb
+C:\Users\felic\source\repos\TH Winform W3\TH Winform W3\obj\Debug\TH Winform W3.csproj.AssemblyReference.cache
+C:\Users\felic\source\repos\TH Winform W3\TH Winform W3\obj\Debug\TH Winform W3.csproj.SuggestedBindingRedirects.cache
+C:\Users\felic\source\repos\TH Winform W3\TH Winform W3\obj\Debug\TH_Winform_W3.FormMainWindow.resources
+C:\Users\felic\source\repos\TH Winform W3\TH Winform W3\obj\Debug\TH_Winform_W3.Form2.resources
+C:\Users\felic\source\repos\TH Winform W3\TH Winform W3\obj\Debug\TH_Winform_W3.Properties.Resources.resources
+C:\Users\felic\source\repos\TH Winform W3\TH Winform W3\obj\Debug\TH_Winform_W3.Second_Windows_Form.resources
+C:\Users\felic\source\repos\TH Winform W3\TH Winform W3\obj\Debug\TH Winform W3.csproj.GenerateResource.cache
+C:\Users\felic\source\repos\TH Winform W3\TH Winform W3\obj\Debug\TH Winform W3.csproj.CoreCompileInputs.cache
+C:\Users\felic\source\repos\TH Winform W3\TH Winform W3\obj\Debug\TH Winform W3.exe
+C:\Users\felic\source\repos\TH Winform W3\TH Winform W3\obj\Debug\TH Winform W3.pdb
